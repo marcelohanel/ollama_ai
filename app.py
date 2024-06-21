@@ -10,7 +10,6 @@ print(df_text)
 print()
 print()
 
-
 while pergunta != "sair": 
 
     pergunta = input("Digite sua pergunta: ")
